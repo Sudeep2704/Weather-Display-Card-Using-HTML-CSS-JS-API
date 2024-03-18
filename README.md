@@ -1,0 +1,1 @@
+This project is based on Weather Display using HTML/CSS/JS/API. A weather card in created, in which the first part is the user input button, then the display of weather as per the user input. The card display temperature, humidity and rain prediction.
